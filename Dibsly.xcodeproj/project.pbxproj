@@ -610,6 +610,7 @@
 				EXCLUDED_SOURCE_FILE_NAMES = GLMProxySecret.txt;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Dibsly;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Take photos of the item you are giving away so neighbors can see what they are claiming.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Dibsly uses your location to show free stuff posted near you. Only a coarse neighborhood grid is ever saved.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Pick photos of the item you are giving away or upload a photo for a Wanted request.";
@@ -675,6 +676,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = Dibsly;
+				INFOPLIST_KEY_ITSAppUsesNonExemptEncryption = NO;
 				INFOPLIST_KEY_NSCameraUsageDescription = "Take photos of the item you are giving away so neighbors can see what they are claiming.";
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "Dibsly uses your location to show free stuff posted near you. Only a coarse neighborhood grid is ever saved.";
 				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "Pick photos of the item you are giving away or upload a photo for a Wanted request.";
